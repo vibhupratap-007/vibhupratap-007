@@ -4,6 +4,6 @@
 </p>
 <hr>
 ## 👨🏻‍💻 Coding Playground
---------------------------------------------------------
+<hr>
 I specialize in:
 - Language and Tools
