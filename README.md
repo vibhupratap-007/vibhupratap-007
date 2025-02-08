@@ -21,3 +21,24 @@ I specialize in:
 
 <h2> 💡 Continous Learning </h2>
 <p> My GitHub isn't just a collection of code; it's a testament to my growth and learning. With certifications from Udemy, Coincent, Rinex, NPTEL, and more, I continually expand my skill set to stay ahead in the ever-evolving tech landscape. </p>
+<hr>
+
+<h2> Noteworthy Projects 🎖️ </h2>
+<ul>
+  <li> Churn Modelling Predicition - A predictive model to identify customers at risk of churning using Artificial Neural Networks (ANN). The project involved data preprocessing, feature engineering, model training, and evaluation, culminating in a deployable solution that can predict customer churn with high accuracy. </li>
+  <li> Text Summarizing Using Spacy - A end to end project where you can upload any of your document. It analyses it removing the unnessary stopwords and performing other NLP tasks to give you a summarize text. </li>
+</ul>
+<hr>
+
+<h2> ⭐️ Let's Connect</h2>
+<p> Got an exciting project or idea? Want to collaborate on an open-source initiative? Feel free to drop me a message or fork one of my repositories. Let's create something amazing together! </p>
+<hr>
+
+<h3> Contact Information: </h3>
+<ul>
+  <li> Linkedin Profile - https://www.linkedin.com/in/vibhu-pratap-v/ </li>
+  <li> Email: vibhupratap007@gmail.com </li>
+  <li> Phone No. - 9368499640 </li>
+</ul>
+<p> Explore, connect, and let's make the open-source community even more vibrant together! </p>
+<hr>
