@@ -15,5 +15,6 @@ I specialize in:
 
 <hr>
 <h2> 🤝 Collobration and Teamwork </h2>
-<hr>
+
 <p> I thrive on collaborative projects and have a proven track record of working with teams to create impactful software. From hackathons to internships, I've led and contributed to various projects, always learning and sharing knowledge. If you're looking for a coding partner or team collaborator, you're in the right place! </p>
+<hr>
