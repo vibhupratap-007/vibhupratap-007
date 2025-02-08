@@ -4,7 +4,7 @@
 </p>
 <hr>
 <h2> 👨🏻‍💻 Coding Playground </h2>
-<hr>
+
 I specialize in:
 <ul>
   <li> Language & Tools - Python, Java, HTML, CSS, </li>
