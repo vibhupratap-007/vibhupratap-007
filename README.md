@@ -18,3 +18,6 @@ I specialize in:
 
 <p> I thrive on collaborative projects and have a proven track record of working with teams to create impactful software. From hackathons to internships, I've led and contributed to various projects, always learning and sharing knowledge. If you're looking for a coding partner or team collaborator, you're in the right place! </p>
 <hr>
+
+<h2> 💡 Continous Learning </h2>
+<p> My GitHub isn't just a collection of code; it's a testament to my growth and learning. With certifications from Udemy, Coincent, Rinex, NPTEL, and more, I continually expand my skill set to stay ahead in the ever-evolving tech landscape. </p>
