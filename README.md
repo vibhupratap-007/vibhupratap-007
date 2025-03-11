@@ -27,6 +27,8 @@ I specialize in:
 <ul>
   <li> Churn Modelling Predicition - A predictive model to identify customers at risk of churning using Artificial Neural Networks (ANN). The project involved data preprocessing, feature engineering, model training, and evaluation, culminating in a deployable solution that can predict customer churn with high accuracy. </li>
   <li> Text Summarizing Using Spacy - A end to end project where you can upload any of your document. It analyses it removing the unnessary stopwords and performing other NLP tasks to give you a summarize text. </li>
+  <li> IMDB Sentiment Analysis - This project performs sentiment analysis on IMDB movie reviews using a Simple Recurrent Neural Network (RNN). It includes data preprocessing, model training, and a Streamlit-based web application for real-time predictions.
+</li>
 </ul>
 <hr>
 
