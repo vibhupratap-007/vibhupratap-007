@@ -1,6 +1,6 @@
 ## The Coding Realm of Vibhu 🌌
 <p>
-  Hey there! I'm Vibhu Pratap, a dedicated AIML Enthusiast and Data Scientist from Mathura, Uttar Pradesh, India. My GitHub repository is a vibrant space where I transform my passion for coding and data analytics into innovative projects and collaborative ventures. Here's a glimpse into my journey and the work you'll find here. 
+  Hey there! I'm Vibhu Pratap, a passionate AIML explorer and aspiring Data Scientist from Mathura, Uttar Pradesh, India. Welcome to my GitHub realm—a dynamic space where creativity meets code. From innovative AI models to data-driven projects, this is where I bring ideas to life and grow through collaboration. Dive in and discover my journey through the world of Artificial Intelligence and Machine Learning!
 </p>
 <hr>
 <h2> 👨🏻‍💻 Coding Playground </h2>
@@ -10,6 +10,7 @@ I specialize in:
   <li> Language & Tools - Python, Java, HTML, CSS, </li>
   <li> Frameworks - PHP, Flask, Wordpress, AWS </li>
   <li> Data Science & Analytics - Aritifical Intelligence, Machine Learning (scikit-learn, TensorFlow, Keras), Deep Learning, Data Visualization (Matplotlib, Seaborn), SQL (MySQL)</li>
+  <li> Building Tools - Figma</li>
 </ul>
 <p> My repositories showcase a mix of personal projects, innovative solutions, and experiments pushing the boundaries of both web development and data science. </p>
 
