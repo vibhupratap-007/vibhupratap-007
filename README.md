@@ -30,6 +30,8 @@ I specialize in:
   <li> Text Summarizing Using Spacy - A end to end project where you can upload any of your document. It analyses it removing the unnessary stopwords and performing other NLP tasks to give you a summarize text. </li>
   <li> IMDB Sentiment Analysis - This project performs sentiment analysis on IMDB movie reviews using a Simple Recurrent Neural Network (RNN). It includes data preprocessing, model training, and a Streamlit-based web application for real-time predictions.
 </li>
+  <li>Next Word Predicition Using LSTM - This project combines two real-world machine learning solutions: a customer churn prediction model and a salary prediction model. Built using deep learning (ANN) and regression techniques, it covers the entire pipeline from data preprocessing to model deployment. Interactive Streamlit apps allow users to test predictions live. Ideal for demonstrating end-to-end ML workflows.
+  </li>
 </ul>
 <hr>
 
